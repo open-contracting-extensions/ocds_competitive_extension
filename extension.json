@@ -1,0 +1,21 @@
+{
+  "name": {
+    "en": "Competitive"
+  },
+  "description": {
+    "en": "Adds a field to the tender object in a framework agreement call-off to indicate if it is competitive or direct."
+  },
+  "documentationUrl": {
+    "en": "https://extensions.open-contracting.org/en/extensions/competitive/"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "contactPoint": {
+    "name": "Open Contracting Partnership",
+    "email": "data@open-contracting.org"
+  }
+}
