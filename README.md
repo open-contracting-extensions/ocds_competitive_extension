@@ -2,7 +2,7 @@
 
 Adds a field to the tender object in a framework agreement call-off to indicate if it is competitive or direct.
 
-## Examples
+## Example
 
 ```json
 {
