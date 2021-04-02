@@ -4,8 +4,6 @@ Adds a field to the tender object in a framework agreement call-off to indicate 
 
 ## Examples
 
-### Framework agreement direct call-off
-
 ```json
 {
   "tender": {
