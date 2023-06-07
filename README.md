@@ -1,5 +1,7 @@
 # Competitive
 
+**Use the [Techniques](https://extensions.open-contracting.org/en/extensions/techniques/master/) extension instead, into which this extension has been merged.**
+
 Adds a field to the tender object in a framework agreement call-off to indicate if it is competitive or direct.
 
 ## Example
