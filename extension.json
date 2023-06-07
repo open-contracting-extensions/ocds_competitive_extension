@@ -6,7 +6,7 @@
     "en": "Adds a field to the tender object in a framework agreement call-off to indicate if it is competitive or direct."
   },
   "documentationUrl": {
-    "en": "https://extensions.open-contracting.org/en/extensions/competitive/"
+    "en": "https://github.com/open-contracting-extensions/ocds_competitive_extension"
   },
   "compatibility": [
     "1.1"
